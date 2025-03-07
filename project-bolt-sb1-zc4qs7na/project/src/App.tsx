@@ -94,10 +94,10 @@ function App() {
 
   const testimonials = [
     {
-      name: "Alex Johnson",
-      role: "Computer Science Major",
-      content: "This resume builder helped me land my first internship at a tech company. The templates are professional and easy to customize!",
-      avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80"
+      name: "Piyush Koli",
+      role: "Data Science Student",
+      content: "This resume builder helped me a lot. The templates are professional and easy to customize!",
+      avatar: "C:\Users\HARESH\OneDrive\Desktop\Auto Resume Builder\project-bolt-sb1-zc4qs7na\project\src\piyush k. photo.jpg"
     },
     {
       name: "Maya Patel",
